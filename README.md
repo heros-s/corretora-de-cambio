@@ -1,0 +1,1 @@
+O programa solicita que você digite o valor da cotação da moeda na qual você deseja converter, nesse caso seria o dólar, mas pode ser convertida para qualquer moeda de acordo com o valor digitado. Após isso você precisa digitar o valor em reais, e então o conversor fará a operação para converter e irá imprimir o valor convertido.
